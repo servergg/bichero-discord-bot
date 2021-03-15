@@ -1,0 +1,28 @@
+{
+  "name": "jogodobicho-dbot",
+  "version": "1.0.0",
+  "description": "A Discord Bot based in a brazilian gamble game (aka \"Jogo do Bicho\", \"Beast's Game\" as a literal translation). It's just for fun (doesn't use real currency).",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardolino/jogodobicho-dbot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "nodejs",
+    "game"
+  ],
+  "author": "Adeonatus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricardolino/jogodobicho-dbot/issues"
+  },
+  "homepage": "https://github.com/ricardolino/jogodobicho-dbot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
