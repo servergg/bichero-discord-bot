@@ -4,7 +4,8 @@
   "description": "A Discord Bot based in a brazilian gamble game (aka \"Jogo do Bicho\", \"Beast's Game\" as a literal translation). It's just for fun (doesn't use real currency).",
   "main": "src/index.js",
   "scripts": {
-    "test": "npm run test"
+    "test": "npm run test",
+    "start": "node ./src/index.js"
   },
   "repository": {
     "type": "git",
@@ -23,6 +24,7 @@
   },
   "homepage": "https://github.com/ricardolino/jogodobicho-dbot#readme",
   "dependencies": {
-    "discord.js": "^12.5.1"
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
   }
 }
