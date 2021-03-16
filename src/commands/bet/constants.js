@@ -5,7 +5,7 @@ const CONSTANTS = {
       emptyArgs: 'You should pass at least one valid argument'
     },
     response: {
-      confirm: 'You will bet in: '
+      confirm: 'This is your bet: '
     }
   }
 };
