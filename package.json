@@ -1,7 +1,7 @@
 {
   "name": "bichero-discord-bot",
   "version": "1.0.0",
-  "description": "A Discord Bot based in a brazilian gamble game (aka \"Jogo do Bicho\", \"Beast's Game\" as a literal translation). It's just for fun (doesn't use real currency).",
+  "description": "A Discord Bot based in a brazilian gamble game (aka \"Jogo do Bicho\", \"Animal Game\" as a literal translation). It's just for fun (doesn't use real currency).",
   "main": "src/index.js",
   "scripts": {
     "test": "npm run test",
@@ -17,7 +17,7 @@
     "nodejs",
     "game"
   ],
-  "author": "Adeonatus",
+  "author": "Ricardo Lino",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ricardolino/bichero-discord-bot/issues"
