@@ -15,7 +15,9 @@ The default prefix is `r$`, followed by a command name and a argument.
 `r$<command> [arguments]`
 
 - ### `r$bet [animal group name]`
-  Set a bet in a animal group. The accepted values are: 
-  `['avestruz', 'aguia', 'burro', 'borboleta', 'cachorro', 'cabra', 'carneiro', 'camelo', 'cobra', 'coelho', 'cavalo', 'elefante', 'galo', 'gato', 'jacare', 'leao', 'macaco', 'porco', 'pavao', 'peru', 'touro', 'tigre', 'urso', 'veado', 'vaca']`
+  Set a bet in a animal group. The accepted arguments are: 
+  ```
+  ['avestruz', 'aguia', 'burro', 'borboleta', 'cachorro', 'cabra', 'carneiro', 'camelo', 'cobra', 'coelho', 'cavalo', 'elefante', 'galo', 'gato', 'jacare', 'leao', 'macaco', 'porco', 'pavao', 'peru', 'touro', 'tigre', 'urso', 'veado', 'vaca']
+  ```
 
   Example: `r$bet aguia`
